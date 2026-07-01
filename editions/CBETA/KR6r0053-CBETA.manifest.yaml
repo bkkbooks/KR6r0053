@@ -1,0 +1,432 @@
+canonical_identifier: bkk:krp/KR6r0053/CBETA/v1
+canonical_location: https://kanripo.org/bkk/KR6r0053/CBETA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續高僧傳
+  identifiers:
+    canon: T
+    vol: '50'
+    'no': '2060'
+    krp: KR6r0053
+  tags:
+    kr-categories: KR6r
+  source:
+    repository: tls-texts
+    path: data/tls/KR6r0053.xml
+  edition:
+    short: CBETA
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0053_000-CBETA.yaml, hash: 'sha256:fde9a8739320adfb7ce4568e82ad35ba06c1d0e1d1d7188b49c7914b9db0815d'}
+  - {seq: 2, filename: KR6r0053_002-CBETA.yaml, hash: 'sha256:8812d249a19dc83527c3aed3ce8b9584aa7787c76a9fa894920e6fa0983fd9b6'}
+  - {seq: 3, filename: KR6r0053_003-CBETA.yaml, hash: 'sha256:9185d8a2cd42215d98ac2ea79cddf98d980f78a77da557ea2741129c5d380042'}
+  - {seq: 4, filename: KR6r0053_004-CBETA.yaml, hash: 'sha256:8ba109b9f5000c131daa08d28ab0b96253e67504de71ff07ba8ca21b8889a5dd'}
+  - {seq: 6, filename: KR6r0053_006-CBETA.yaml, hash: 'sha256:919cb701d11646a3c5a78f50c590658cc8769f9ac20b9caf116e5416699f0fec'}
+  - {seq: 7, filename: KR6r0053_007-CBETA.yaml, hash: 'sha256:0bc351cccbedf3eb8807adbaa909a63a994784512a09bba3a6453acae9a8221a'}
+  - {seq: 8, filename: KR6r0053_008-CBETA.yaml, hash: 'sha256:2575187dd80337fe40ea7adb9c71bad1e4538ed45feb3455e88ea0668396c832'}
+  - {seq: 9, filename: KR6r0053_009-CBETA.yaml, hash: 'sha256:76127971693e55ae8c1e8a3b17db0e504849340a57e4decba9f7039e8842b4c0'}
+  - {seq: 10, filename: KR6r0053_010-CBETA.yaml, hash: 'sha256:a109b42c2dedaa8776b7fa4fea010eefae95818247408ecbc932f1b08a7551d8'}
+  - {seq: 11, filename: KR6r0053_011-CBETA.yaml, hash: 'sha256:70ff7df090b40cdabeb35a953718aa2f919745b1e2d82d8c6c73c5c40fe6504e'}
+  - {seq: 12, filename: KR6r0053_012-CBETA.yaml, hash: 'sha256:3c64a103ac2b21cf90033d0f076b14e024a2b2c484c46d0fde10a83eafe51147'}
+  - {seq: 13, filename: KR6r0053_013-CBETA.yaml, hash: 'sha256:510c58af57db9b881104c16930d67b90acb3d53cb3994fe377167a2701e3763f'}
+  - {seq: 14, filename: KR6r0053_014-CBETA.yaml, hash: 'sha256:750524108588acd725e47b6c67226e5bec50f6c5c4d02ff8b4e3a16eb62727a1'}
+  - {seq: 15, filename: KR6r0053_015-CBETA.yaml, hash: 'sha256:1ea9818127f6e744209e9cbcfe874fea40e5f29a1a1bea419970a6372492ace1'}
+  - {seq: 17, filename: KR6r0053_017-CBETA.yaml, hash: 'sha256:b8ca16077964758533048aaeb867cdf418fa190ed346f3f154f0ce6a334c3c16'}
+  - {seq: 18, filename: KR6r0053_018-CBETA.yaml, hash: 'sha256:aed12c0885163514cfd229aac30e08de74f85dbd335233a398ffac661a9d0b48'}
+  - {seq: 19, filename: KR6r0053_019-CBETA.yaml, hash: 'sha256:cec571b528853b2fb90d967863ba58cec5df83e34f6627101ee4bf94c61e7a3d'}
+  - {seq: 20, filename: KR6r0053_020-CBETA.yaml, hash: 'sha256:70b4132b77f547a9069be690bf546368a36fa45dbbbd3b56cf6adf30c63f1779'}
+  - {seq: 22, filename: KR6r0053_022-CBETA.yaml, hash: 'sha256:d8a05a5c8ec8244f5e625bf2657426a21de87c84f386068268b94a925dcf8ec3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0053_000-CBETA.markers.yaml, hash: 'sha256:af4b9abc2d25a3067716581668681c11b27d59e73257ef4fbd4c3feae7f2770e'}
+  - {seq: 2, role: markers, filename: assets/KR6r0053_002-CBETA.markers.yaml, hash: 'sha256:5d0f71ceda654eb76ac2b110b46cc6d7f859bd83883b6445b53c32a69200622a'}
+  - {seq: 3, role: markers, filename: assets/KR6r0053_003-CBETA.markers.yaml, hash: 'sha256:77e4f7f11189ea648c469e42f56a04dbedaa379b3416f77b5dc1604d546e67c8'}
+  - {seq: 4, role: markers, filename: assets/KR6r0053_004-CBETA.markers.yaml, hash: 'sha256:0d9810af29b5aa75d4b1eefb8de12a02adad7c14f1e38500a197131adde406ab'}
+  - {seq: 6, role: markers, filename: assets/KR6r0053_006-CBETA.markers.yaml, hash: 'sha256:9cb4791e82c529c47b454fcfa497324fe38cb7ce6d8eec0b3968a5b006801c0e'}
+  - {seq: 7, role: markers, filename: assets/KR6r0053_007-CBETA.markers.yaml, hash: 'sha256:49195a5449a671ef5e3aa965276f4ecb339d891ca441c72e90ca5301bd85ffb0'}
+  - {seq: 8, role: markers, filename: assets/KR6r0053_008-CBETA.markers.yaml, hash: 'sha256:90e444415d512aff27991eadf55938d3e41b1f3a85dde16542c1223763504d40'}
+  - {seq: 9, role: markers, filename: assets/KR6r0053_009-CBETA.markers.yaml, hash: 'sha256:a8a213ad95d02f6b3eda1fe4258962adf885aea7c648cf43f2759cc861468e91'}
+  - {seq: 10, role: markers, filename: assets/KR6r0053_010-CBETA.markers.yaml, hash: 'sha256:567ee7c063b039594266831187207e7b1f8e3a961dab5ab7628ad56a91640324'}
+  - {seq: 11, role: markers, filename: assets/KR6r0053_011-CBETA.markers.yaml, hash: 'sha256:ed4bea67b7d13956b776673f2960bab1ae4e8f4689ade07876dd8cc2d244f4d7'}
+  - {seq: 12, role: markers, filename: assets/KR6r0053_012-CBETA.markers.yaml, hash: 'sha256:e19f9d8592fbdb306bc4f9d85924e2bb825bb04bcf5123954e607018f883c67f'}
+  - {seq: 13, role: markers, filename: assets/KR6r0053_013-CBETA.markers.yaml, hash: 'sha256:9b066c94f2ac7b53b2d1680c03366ef2aad7e00e0074dd6351125768a8edce1a'}
+  - {seq: 14, role: markers, filename: assets/KR6r0053_014-CBETA.markers.yaml, hash: 'sha256:cb6290cccd08903a7f86e993538d2ca218957cf535443c46694e0d462401bab2'}
+  - {seq: 15, role: markers, filename: assets/KR6r0053_015-CBETA.markers.yaml, hash: 'sha256:64833c26488bbafa89ed3bf93fcebf1d96dff40e68884d39f559bcfc85f57baa'}
+  - {seq: 17, role: markers, filename: assets/KR6r0053_017-CBETA.markers.yaml, hash: 'sha256:8c5f36a7231dda1f7955f637a2d26124f6b4c313acfd81ce07c424f467d07e4f'}
+  - {seq: 18, role: markers, filename: assets/KR6r0053_018-CBETA.markers.yaml, hash: 'sha256:d8d8803ada39dcf20a1575d3ce3377ae751b35b95b706441be582753b5547737'}
+  - {seq: 19, role: markers, filename: assets/KR6r0053_019-CBETA.markers.yaml, hash: 'sha256:52d8d7a97346b9a50a0f85eec0a1d6c85f2b7634b1243eefc5b90d72ce98cf1d'}
+  - {seq: 20, role: markers, filename: assets/KR6r0053_020-CBETA.markers.yaml, hash: 'sha256:09fe7769dd60dcd540043d599fd53046f201f0e9e4cae705cf290df2bb8e8d7b'}
+  - {seq: 22, role: markers, filename: assets/KR6r0053_022-CBETA.markers.yaml, hash: 'sha256:671f22f1d6afb7fc7d448e2cfe26326332da6079db77ef56676ccfb130c90298'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0053_CBETA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 續高僧傳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0053_CBETA_000-mulu-2
+    span:
+    - front
+    - 1090
+    - 1090
+  label: 1 譯經篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0053_CBETA_000-mulu-3
+    span:
+    - front
+    - 1090
+    - 1090
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0053_CBETA_002-juan-start
+    span:
+    - body
+    - 0
+    - 10618
+  label: 續高僧傳卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0053_CBETA_003-juan-start
+    span:
+    - body
+    - 0
+    - 9288
+  label: 續高僧傳卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0053_CBETA_004-juan-start
+    span:
+    - body
+    - 0
+    - 28886
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0053_CBETA_004-mulu-1
+    span:
+    - body
+    - 18175
+    - 18175
+  label: 2 義解篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0053_CBETA_004-mulu-2
+    span:
+    - body
+    - 18175
+    - 18175
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0053_CBETA_006-juan-start
+    span:
+    - body
+    - 0
+    - 11617
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0053_CBETA_007-juan-start
+    span:
+    - body
+    - 0
+    - 9446
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0053_CBETA_008-juan-start
+    span:
+    - body
+    - 0
+    - 12262
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0053_CBETA_009-juan-start
+    span:
+    - body
+    - 0
+    - 11987
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0053_CBETA_010-juan-start
+    span:
+    - body
+    - 0
+    - 9885
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0053_CBETA_011-juan-start
+    span:
+    - body
+    - 0
+    - 9074
+  label: 續高僧傳卷
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0053_CBETA_012-juan-start
+    span:
+    - body
+    - 0
+    - 9102
+  label: 續高僧傳卷
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0053_CBETA_013-juan-start
+    span:
+    - body
+    - 0
+    - 13008
+  label: 續高僧傳卷
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0053_CBETA_014-juan-start
+    span:
+    - body
+    - 0
+    - 9371
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6r0053_CBETA_015-juan-start
+    span:
+    - body
+    - 0
+    - 30343
+  label: 續高僧傳
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6r0053_CBETA_015-mulu-1
+    span:
+    - body
+    - 15815
+    - 15815
+  label: 3 習禪
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6r0053_CBETA_015-mulu-2
+    span:
+    - body
+    - 15815
+    - 15815
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0053_CBETA_017-juan-start
+    span:
+    - body
+    - 0
+    - 14056
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6r0053_CBETA_018-juan-start
+    span:
+    - body
+    - 0
+    - 10647
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0053_CBETA_019-juan-start
+    span:
+    - body
+    - 0
+    - 12042
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0053_CBETA_020-juan-start
+    span:
+    - body
+    - 0
+    - 34678
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0053_CBETA_020-mulu-1
+    span:
+    - body
+    - 25248
+    - 25248
+  label: 4 明律
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0053_CBETA_020-mulu-2
+    span:
+    - body
+    - 25248
+    - 25248
+  label: 上
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-juan-start
+    span:
+    - body
+    - 0
+    - 124684
+  label: 續高僧傳卷第
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 下
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-2
+    span:
+    - body
+    - 12139
+    - 12139
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-3
+    span:
+    - body
+    - 14231
+    - 14231
+  label: 5 護法
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-4
+    span:
+    - body
+    - 14231
+    - 14231
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-5
+    span:
+    - body
+    - 39654
+    - 39654
+  label: 6 感通
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-6
+    span:
+    - body
+    - 39654
+    - 39654
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-7
+    span:
+    - body
+    - 85397
+    - 85397
+  label: 7 遺身篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-8
+    span:
+    - body
+    - 95740
+    - 95740
+  label: 8 讀誦篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-9
+    span:
+    - body
+    - 103179
+    - 103179
+  label: 9 興福篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0053_CBETA_022-mulu-10
+    span:
+    - body
+    - 115848
+    - 115848
+  label: 10 雜科聲德篇
+  type: mulu
+  level: 1
+hash: sha256:37bf128f8cdba59ffd40459d8e2bd70cfbe654db940664ea858e8fe376de6d9d
