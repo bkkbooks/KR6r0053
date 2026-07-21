@@ -19,7 +19,7 @@ metadata:
     short: CBETA
 assets:
   parts:
-  - {seq: 0, filename: KR6r0053_000-CBETA.yaml, hash: 'sha256:fde9a8739320adfb7ce4568e82ad35ba06c1d0e1d1d7188b49c7914b9db0815d'}
+  - {seq: 0, filename: KR6r0053_000-CBETA.yaml, hash: 'sha256:7d65359bea73a00142ddb2ef7850a87e0b47a0c2c4ab9a79fc71a572ff1959d5'}
   - {seq: 2, filename: KR6r0053_002-CBETA.yaml, hash: 'sha256:8812d249a19dc83527c3aed3ce8b9584aa7787c76a9fa894920e6fa0983fd9b6'}
   - {seq: 3, filename: KR6r0053_003-CBETA.yaml, hash: 'sha256:9185d8a2cd42215d98ac2ea79cddf98d980f78a77da557ea2741129c5d380042'}
   - {seq: 4, filename: KR6r0053_004-CBETA.yaml, hash: 'sha256:8ba109b9f5000c131daa08d28ab0b96253e67504de71ff07ba8ca21b8889a5dd'}
@@ -39,7 +39,7 @@ assets:
   - {seq: 20, filename: KR6r0053_020-CBETA.yaml, hash: 'sha256:70b4132b77f547a9069be690bf546368a36fa45dbbbd3b56cf6adf30c63f1779'}
   - {seq: 22, filename: KR6r0053_022-CBETA.yaml, hash: 'sha256:d8a05a5c8ec8244f5e625bf2657426a21de87c84f386068268b94a925dcf8ec3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0053_000-CBETA.markers.yaml, hash: 'sha256:af4b9abc2d25a3067716581668681c11b27d59e73257ef4fbd4c3feae7f2770e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0053_000-CBETA.markers.yaml, hash: 'sha256:fedf5b12d7cb5b9d9ff8d65247b4e6447b0c96ce7c1a5d24034a5b00e9308741'}
   - {seq: 2, role: markers, filename: assets/KR6r0053_002-CBETA.markers.yaml, hash: 'sha256:5d0f71ceda654eb76ac2b110b46cc6d7f859bd83883b6445b53c32a69200622a'}
   - {seq: 3, role: markers, filename: assets/KR6r0053_003-CBETA.markers.yaml, hash: 'sha256:77e4f7f11189ea648c469e42f56a04dbedaa379b3416f77b5dc1604d546e67c8'}
   - {seq: 4, role: markers, filename: assets/KR6r0053_004-CBETA.markers.yaml, hash: 'sha256:0d9810af29b5aa75d4b1eefb8de12a02adad7c14f1e38500a197131adde406ab'}
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0053_CBETA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 續高僧傳序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0053_CBETA_000-mulu-2
     span:
-    - front
+    - body
     - 1090
     - 1090
   label: 1 譯經篇
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0053_CBETA_000-mulu-3
     span:
-    - front
+    - body
     - 1090
     - 1090
   label: '1'
@@ -429,4 +429,4 @@ table_of_contents:
   label: 10 雜科聲德篇
   type: mulu
   level: 1
-hash: sha256:37bf128f8cdba59ffd40459d8e2bd70cfbe654db940664ea858e8fe376de6d9d
+hash: sha256:712f95204a0034fb10d3dc475d17ab84cba916845e1d8fada1ecc663efe7ae89
